@@ -1,2 +1,2 @@
 # Projeto-calculadora
-prejeto calculadora usando html ,css e javascript
+projeto calculadora usando html ,css e javascript
